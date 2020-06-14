@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Evel Co",
+    "minimalInvestmentPrice":500,
+    "returnRatio":0.2 ,
+    "riskIntervalMin":-5 ,
+    "riskIntervalMax": 100,
+    "symbol": "I"
+  },
+  {
+    "name": "Bombs Away",
+    "minimalInvestmentPrice":400 ,
+    "returnRatio":0.5 ,
+    "riskIntervalMin":-10 ,
+    "riskIntervalMax": 50,
+    "symbol": "I"
+  },
+  {
+    "name": "Clock Work Orange",
+    "minimalInvestmentPrice": 300,
+    "returnRatio":1.5 ,
+    "riskIntervalMin":-15 ,
+    "riskIntervalMax": 35,
+    "symbol": "I"
+  },
+  {
+    "name": "Maroders unated",
+    "minimalInvestmentPrice":200 ,
+    "returnRatio":2 ,
+    "riskIntervalMin":-18 ,
+    "riskIntervalMax": 50,
+    "symbol": "I"
+  },
+  {
+    "name": "Fatcat incorporated",
+    "minimalInvestmentPrice": 100,
+    "returnRatio": 2.5,
+    "riskIntervalMin": -25,
+    "riskIntervalMax": 100,
+    "symbol": "I"
+  },
+  {
+    "name": "Macrosoft",
+    "minimalInvestmentPrice": 50,
+    "returnRatio":5.0 ,
+    "riskIntervalMin": -20,
+    "riskIntervalMax": 10,
+    "symbol": "I"
+  }
+]
